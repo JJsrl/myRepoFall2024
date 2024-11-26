@@ -1,3 +1,5 @@
+#This is a change on 11/26 testing git functions
+
 class dog:
     def __init__(self,name,trick,breed,hungry = True):
         self.name = name
